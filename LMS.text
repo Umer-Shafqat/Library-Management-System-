@@ -1,0 +1,27 @@
+
+Enter your name: Shafqat Ali
+Enter your department: BSSE
+Enter your semester: 2
+Invalid email. Please enter a Gmail address.
+Enter your email: SHAFQAT251786
+Invalid email. Please enter a Gmail address.
+Enter your email: Shafqat251786@gmail.com
+Registration Successful!
+
+Available Books:
+Book #1: C++ by Kaleemullah (1st)
+Book #2: Atomic Physics by Nasir (2nd)
+Book #3: Database by Ms. Qurat (3rd)
+Book #4: Applied Physics by Nasir (4th)
+Book #5: ICT by Bilal (5th)
+
+Book Title Searched: C++
+Author: Kaleemullah
+Edition: 1st
+Book is available!
+Enter borrow date (dd mm yyyy): 3-9-2025
+Enter due date (dd mm yyyy): 6-9-2025
+Enter actual return date (dd mm yyyy): 8-9-2025
+You are 2 days late.
+Fine: 20 PKR
+-----------------------------------------

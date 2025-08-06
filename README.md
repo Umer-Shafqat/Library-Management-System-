@@ -34,3 +34,9 @@ Notifies if the book was returned on time.
 
 All user inputs and outputs are recorded in LibraryManagmentSystem.txt.
 
+<stronge>Library-Management-System/</stronge>
+
+│── main.cpp                # Main source code
+│── LibraryManagmentSystem.txt  # Log file (generated after running)
+│── README.md               # Project documentation
+

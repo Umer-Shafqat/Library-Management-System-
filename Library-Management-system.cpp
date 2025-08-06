@@ -152,7 +152,7 @@ int main() {
  cout<<"***************************"<<endl;
  cout<<"*Library Management System*"<<endl;
  cout<<"***************************"<<endl;
- cout<<"Group Members"<<endl;
+ cout<<"Group Member"<<endl;
  cout<<"M.Umer Shafqat";
 
     ofstream outfile("LibraryManagmentSystem.txt", ios::app);
